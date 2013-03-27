@@ -22,5 +22,4 @@ doc/
 .DS_Store
 .idea
 
-# ignore papercip uploaded files
-/public/system
+# ignore papercip uploaded files /public/system
