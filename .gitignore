@@ -21,3 +21,6 @@ doc/
 .project
 .DS_Store
 .idea
+
+# ignore papercip uploaded files
+/public/system
